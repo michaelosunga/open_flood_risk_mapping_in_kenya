@@ -4,9 +4,9 @@ Garissa and Tana River counties in Kenya are frequently impacted by severe flood
 # Training objectives
 To conduct a comprehensive flood risk assessment and develop detailed flood risk maps for **Garissa** and **Tana River** counties to inform disaster risk reduction and management strategies. 
 
-## The specific objectives of the end of inception phase workshop are to: 
+## The specific objectives of the training are to: 
 - To identify and map flood-prone areas in Garissa and Tana River counties.
-- To assess the socio-economic vulnerabilities of communities living in flood-prone areas.
+- To assess the socio-economic risks and vulnerabilities of communities living in flood-prone areas.
 - To evaluate the existing flood management infrastructure and capacity.
 - To provide actionable recommendations for enhancing flood resilience and reducing vulnerabilities.
 
