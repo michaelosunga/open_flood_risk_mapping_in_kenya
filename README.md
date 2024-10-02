@@ -1,9 +1,26 @@
-# Understanding flood risk in Kenya
-**An open GIS framework for flood risk mapping in Kenya**
 # Introduction
-Flood hazards have been highlighted as the most frequent types of disasters occurring in the world. Mostly, a flood hazard occurs when an overflow of water submerges land that is usually dry. Floods are often caused by heavy rainfall, rapid snowmelt or a storm surge from a tropical cyclone or tsunami in coastal area. In this context, mapping of flood hazard is concentrated on the use of rainfall generated flooding which mostly occurs as a result of river overflows. 
+Garissa and Tana River counties in Kenya are frequently impacted by severe flooding, leading to loss of life, property damage, and displacement of communities. These regions are predominantly low-lying and are characterized by the expansive Tana River and its tributaries. Climate change, land-use changes, and inadequate infrastructure exacerbate the frequency and severity of floods. There is an urgent need for a comprehensive flood risk assessment of counties within the Tana River basin to enhance preparedness and mitigation efforts.
 
-The flood hazard mapping exercise was conducted using the Quantum GIS (QGIS) framework, with openly available raster and vector data sets. The flood hazard maps, given in terms of extent and depth were obtained from Global Flood Awareness System (GLOFAS). These datasets depict flood prone areas in Europe and the World for river flood events of different magnitude (from 1-in-10-year to 1-in-500-year). The flood hazard layers have been developed using hydrological and hydrodynamic models, driven by the climatological data of the European and Global Flood Awareness Systems (EFAS and GloFAS) of the Copernicus Emergency Management Service. 
-The flood hazard maps are in raster format (GEOTIF) with a grid resolution of 90m (3 arcseconds). These maps can be used to assess the exposure of population and economic assets to river floods, and to perform flood risk assessments in any flood prone county in Kenya.
+# Training objectives
+To conduct a comprehensive flood risk assessment and develop detailed flood risk maps for **Garissa** and **Tana River** counties to inform disaster risk reduction and management strategies. 
 
-# Why 
+## The specific objectives of the training are to: 
+- To identify and map flood-prone areas in Garissa and Tana River counties.
+- To assess the socio-economic risks and vulnerabilities of communities living in flood-prone areas.
+- To evaluate the existing flood management infrastructure and capacity.
+- To provide actionable recommendations for enhancing flood resilience and reducing vulnerabilities.
+
+# Expected Outputs
+1. Flood Hazard Maps
+>Detailed maps highlighting flood-prone areas, flood depths, and potential impact zones.
+2. Vulnerability Profiles
+>Comprehensive profiles of vulnerable communities and infrastructure, including schools, health centers, and water supply systems.
+3. Policy Recommendations
+>Strategic recommendations for flood risk reduction, including land-use planning, infrastructure improvements, and community-based disaster risk management initiatives.
+
+The proposed vulnerability assessment and flood mapping initiative in Garissa and Tana River counties aim to enhance the resilience of communities to flood hazards. By providing detailed flood maps and vulnerability assessments, this report will equip local authorities and communities with the necessary tools and knowledge to mitigate flood risks effectively. This initiative is a critical step towards sustainable development and climate resilience in the region.
+
+# Project Location
+The project focuses on Garissa and Tana River Counties which are vulnerable to flooding and drought. 
+
+
