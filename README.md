@@ -12,13 +12,13 @@ To conduct a comprehensive flood risk assessment and develop detailed flood risk
 
 # Expected Outputs
 1. Flood Hazard Maps
->Detailed maps highlighting flood-prone areas, flood depths, and potential impact zones.
-2. Vulnerability Profiles
->Comprehensive profiles of vulnerable communities and infrastructure, including schools, health centers, and water supply systems.
+>Detailed maps highlighting flood-prone areas, flood depths, and potential flood impact zones.
+2. Flood Risk Profiles
+>Comprehensive profiles of communities, livelihoods and infrastructure, including schools, health centers, and water supply systems at risk of extreme flood events
 3. Policy Recommendations
->Strategic recommendations for flood risk reduction, including land-use planning, infrastructure improvements, and community-based disaster risk management initiatives.
+>Strategic recommendations for flood risk reduction including land-use planning, infrastructure improvements, and community-based disaster risk management initiatives and flood early warning and early action (EWEA)
 
-The proposed vulnerability assessment and flood mapping initiative in Garissa and Tana River counties aim to enhance the resilience of communities to flood hazards. By providing detailed flood maps and vulnerability assessments, this report will equip local authorities and communities with the necessary tools and knowledge to mitigate flood risks effectively. This initiative is a critical step towards sustainable development and climate resilience in the region.
+The proposed flood risk assessment in Garissa and Tana River counties aim to enhance the resilience of communities to flood hazards. By providing detailed flood risk assessments, this report will equip local authorities and communities with the necessary tools and knowledge to mitigate flood risks effectively. This initiative is a critical step towards sustainable development and climate resilience in Kenya.
 
 # Project Location
 The project focuses on Garissa and Tana River Counties which are vulnerable to flooding and drought. 
