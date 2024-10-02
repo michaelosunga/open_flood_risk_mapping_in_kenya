@@ -11,9 +11,12 @@ To conduct a comprehensive flood risk assessment and develop detailed flood risk
 - To provide actionable recommendations for enhancing flood resilience and reducing vulnerabilities.
 
 # Expected Outputs
-1. Flood Hazard Maps: Detailed maps highlighting flood-prone areas, flood depths, and potential impact zones.
-2, Vulnerability Profiles: Comprehensive profiles of vulnerable communities and infrastructure, including schools, health centers, and water supply systems.
-3. Policy Recommendations: Strategic recommendations for flood risk reduction, including land-use planning, infrastructure improvements, and community-based disaster risk management initiatives.
+1. Flood Hazard Maps
+>Detailed maps highlighting flood-prone areas, flood depths, and potential impact zones.
+2. Vulnerability Profiles
+>Comprehensive profiles of vulnerable communities and infrastructure, including schools, health centers, and water supply systems.
+3. Policy Recommendations
+>Strategic recommendations for flood risk reduction, including land-use planning, infrastructure improvements, and community-based disaster risk management initiatives.
 
 The proposed vulnerability assessment and flood mapping initiative in Garissa and Tana River counties aim to enhance the resilience of communities to flood hazards. By providing detailed flood maps and vulnerability assessments, this report will equip local authorities and communities with the necessary tools and knowledge to mitigate flood risks effectively. This initiative is a critical step towards sustainable development and climate resilience in the region.
 
