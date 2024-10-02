@@ -52,8 +52,35 @@ The training module is divided into several sessions:
 - Updating data on OSM (Mapathons)
 
 ## Session 3
+### Loading and visualizing data in QGIS
+- Loading flood exposure datasets: DEM and flood hazard at various return periods - rtps
+- Loading land use/land cover (LULC)
+- Loading settlements / buildings, roads and relevant points of interests (schools, hospitals, market centres)
+- Clipping datasets to county of interest - Tana river and Garissa counties
+- Reprojecting data from geographical to projected coordinates
+
 ## Session 4
-Visualising GIS data through maps. Use of cartography to create map products for communication and decision-making.
+### Understanding flood risk
+
+- Computing estimated number of settlements at risk of floods at various return periods
+- Computing estimated number of relevant points of interests (POIs) at risk of  floods at various return periods. POIs include schools, health centres, public boreholes etc
+- Computing estimated number of roads at risk of floods at various return periods
+- Computing estimated acreage of productive land at risk of floods at various return periods
+
+## Session 5
+### How does flood risk compare across different wards/ sub-counties within a county?
+- Computing number of settlements at risk of floods at various return periods across all wards
+- Computing number of relevant points of interests (POIs) at risk of  floods at various return periods across all wards
+- Computing number of roads at risk of floods at various return periods across all wards
+- Computing estimated acreage of productive land at risk of floods at various return periods across all wards
+
+## Session 6
+### Visualising GIS data through maps
+- Use of cartography to create map products for communication and decision-making
+- Step-by-step guide on creating static atlas maps using QGIS
+
+
+
 
 # How to use this technical manual? 
 This digital training manual is developed for absolute GIS beginners. It is a step-by-step guide to  learning essential GIS analysis using QGIS for flood risk mapping. This manual is not a guarantee  that at its conclusion all the trainees will be proficient in geo-information since GIS is vast  with other applications. Therefore, the learner can use the knowledge acquired to further their knowledge in GIS or follow our occasional GIS training manual modules.
