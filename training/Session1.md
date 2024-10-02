@@ -9,3 +9,6 @@
 - How to add base maps in QGIS (Google, OSM, etc.)
 - What are data projections and coordinate systems
 
+**Next Section**: 
+
+<a href="Session2.md" title="Session 2">Session 2</a>
