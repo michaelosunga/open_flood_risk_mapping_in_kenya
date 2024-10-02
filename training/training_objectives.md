@@ -30,18 +30,17 @@ The training module is divided into several sessions:
 
 ## Session 1
 ### Installing QGIS & Interface Overview
-- Installing relevant QGIS plugins
-- Data management / QGIS working folder
+- Installing QGIS and it's relevant plugins and toolboxes e.g GRASS and SAGA
 - Basic QGIS tools and functionalities
 - Understanding data sources and adding layers in QGIS
 - Working with raster and vector data
+- Data management / QGIS working folder
 - Adding base maps in QGIS (Google, OSM, etc.)
 - Introduction to data projections and coordinate systems
 
 
 ### Data Types & Sources for Flood Mapping
-- Flood exposure datasets: DEM, satellite imagery, and hydrological data (flood hazard at various return periods - rtps)
-- Public data sources on flood exposure: downloading DEMs, land use/land cover (LULC), OpenStreetMap (OSM), settlements / buildings, roads and relevant points of interests (schools, hospitals, market centres)
+- Open data sources on flood exposure:  hydrological flood hazard data (flood hazard at various return periods - rtps), land use/land cover (LULC), data from OpenStreetMap (OSM) - settlements / buildings, roads and relevant points of interests (schools, hospitals, market centres)
 
 ## Session 2
 ### Introduction to OpenStreetMap as a data crowd-sourcing tool
@@ -78,8 +77,6 @@ The training module is divided into several sessions:
 ### Visualising GIS data through maps
 - Use of cartography to create map products for communication and decision-making
 - Step-by-step guide on creating static atlas maps using QGIS
-
-
 
 
 # How to use this technical manual? 
