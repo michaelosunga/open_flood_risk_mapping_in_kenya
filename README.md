@@ -7,7 +7,6 @@ To conduct a comprehensive flood risk assessment and develop detailed flood risk
 ## The specific objectives of the training are to: 
 - To identify and map flood-prone areas in Garissa and Tana River counties.
 - To assess the socio-economic risks and vulnerabilities of communities living in flood-prone areas.
-- To evaluate the existing flood management infrastructure and capacity.
 - To provide actionable recommendations for enhancing flood resilience and reducing vulnerabilities.
 
 # Expected Outputs
