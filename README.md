@@ -1,5 +1,5 @@
 # Understanding flood risk in Kenya
-An open GIS framework for flood risk mapping in Kenya
+**An open GIS framework for flood risk mapping in Kenya**
 # Introduction
 Flood hazards have been highlighted as the most frequent types of disasters occurring in the world. Mostly, a flood hazard occurs when an overflow of water submerges land that is usually dry. Floods are often caused by heavy rainfall, rapid snowmelt or a storm surge from a tropical cyclone or tsunami in coastal area. In this context, mapping of flood hazard is concentrated on the use of rainfall generated flooding which mostly occurs as a result of river overflows. 
 
