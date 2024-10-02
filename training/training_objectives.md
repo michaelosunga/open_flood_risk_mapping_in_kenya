@@ -29,7 +29,7 @@ This digital flood risk mapping technical manual was developed to build open GIS
 The training module is divided into several sessions:
 
 ## Session 1
-### Installing QGIS & Interface Overview
+### Installing QGIS & Overview of its interface
 - Installing QGIS and it's relevant plugins and toolboxes e.g GRASS and SAGA
 - Basic QGIS tools and functionalities
 - Understanding data sources and adding layers in QGIS
