@@ -1,10 +1,10 @@
 # Introduction to OpenStreetMap as a data crowd-sourcing tool
 **What will you learn from this module?**
 
-- OSM data model
+- [OpenStreetMap (OSM)] (https://www.openstreetmap.org/) data model
 - Checking for OSM data completeness
-- Downloading vector data from OpenStreetMap (OSM) to help in uderstanding flood risk using QuickOSM
-- How to update data on OSM (Mapathons)
+- Downloading vector data from OSM to help in understanding flood risk using QuickOSM
+- How to update OSM data using [HOT's tasking manager] (https://tasks.hotosm.org/)
 
 
 ##
