@@ -4,10 +4,10 @@
 
  ***Understanding flood risk using GIS***
 - Using the graphic modeller in:
- - Computing estimated number of settlements at risk of floods at various return periods
- - Computing estimated number of relevant points of interests (POIs) at risk of floods at various return periods. POIs include schools, health centres, public boreholes etc
- - Computing estimated number of roads at risk of floods at various return periods
- - Computing estimated acreage of productive land at risk of floods at various return periods
+  -  Computing estimated number of settlements at risk of floods at various return periods
+  - Computing estimated number of relevant points of interests (POIs) at risk of floods at various return periods. POIs include schools, health centres, public boreholes etc
+  - Computing estimated number of roads at risk of floods at various return periods
+  - Computing estimated acreage of productive land at risk of floods at various return periods
 
 
 ##
