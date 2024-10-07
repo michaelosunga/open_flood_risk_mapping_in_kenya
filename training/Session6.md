@@ -3,10 +3,10 @@
 **What will you learn from this module?**
 
   ***Visualising GIS data through maps***
- - Use of cartography to create map products for communication and decision-making
- - Step-by-step guide on creating static atlas maps using QGIS
- - Step-by-step guide on creating interactive maps using [QGIS2web](https://www.qgistutorials.com/en/docs/3/web_mapping_with_qgis2web.html)
- - Step-by-step guide on creating interactive maps using [Lizmap](https://www.lizmap.com/en/)
+ - Use of cartography to create flood risk map products for communication and decision-making
+ - Step-by-step guide on creating static flood risk atlas maps using QGIS
+ - Step-by-step guide on creating interactive flood risk maps using [QGIS2web](https://www.qgistutorials.com/en/docs/3/web_mapping_with_qgis2web.html)
+ - Step-by-step guide on creating interactive flood risk maps using [Lizmap](https://www.lizmap.com/en/)
    
 
 
