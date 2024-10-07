@@ -1,6 +1,7 @@
 # Session 5
 
 **What will you learn from this module?**
+ 
  ***How does flood risk compare across different wards/ sub-counties within a county?***
  - Using the graphical modeller in: 
    - Computing number of settlements at risk of floods at various return periods across all wards
