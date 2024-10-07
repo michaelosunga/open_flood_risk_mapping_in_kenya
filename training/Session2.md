@@ -7,10 +7,6 @@
 - How to update data on OSM (Mapathons)
 
 
-**Next Section**: 
-
-<a href="Session3.md" title="Session 3">Session 3</a>
-
 ##
 **Previous Section:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; **Next Section:**
 
