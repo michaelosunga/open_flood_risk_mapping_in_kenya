@@ -6,8 +6,8 @@
 - Adding GIS layers in QGIS (raster and vector data)
 - Data management / QGIS working folder
 - How to add base maps in QGIS (Google, OSM, etc.)
-- What are data projections and coordinate systems
-- Data Types & Sources for Flood Mapping
+- GIS data projections and coordinate systems
+- GIS data types & sources for flood risk mapping
 
 
 **Next Section**: 
