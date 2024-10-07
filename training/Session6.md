@@ -7,6 +7,7 @@
  - Step-by-step guide on creating static atlas maps using QGIS
  - Step-by-step guide on creating interactive maps using [QGIS2web](https://www.qgistutorials.com/en/docs/3/web_mapping_with_qgis2web.html)
  - Step-by-step guide on creating interactive maps using [Lizmap](https://www.lizmap.com/en/)
+ - <a href="../html-link.htm" target="_blank">Open page in new window</a>
 
 
 
