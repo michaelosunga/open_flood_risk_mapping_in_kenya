@@ -1,14 +1,12 @@
 # Session 5
 
 **What will you learn from this module?**
-
-- Loading flood exposure datasets: DEM and flood hazard at various return periods - rtps
-- Loading land use/land cover (LULC)
-- Loading settlements / buildings, roads and relevant points of interests (schools, hospitals, market centres)
-- Clipping datasets to county of interest - Tana river and Garissa counties
-- Reprojecting data from geographical to projected coordinates
-- Introduction to the QGIS [Graphical Modeler](https://docs.qgis.org/3.34/en/docs/user_manual/processing/modeler.html)
-
+ ***How does flood risk compare across different wards/ sub-counties within a county?***
+ - Using the graphical modeller in: 
+   - Computing number of settlements at risk of floods at various return periods across all wards
+   - Computing number of relevant points of interests (POIs) at risk of floods at various return periods across all wards
+   - Computing number of roads at risk of floods at various return periods across all wards
+   - Computing estimated acreage of productive land at risk of floods at various return periods across all wards
 
 
 ##
