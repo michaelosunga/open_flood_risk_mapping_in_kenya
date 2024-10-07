@@ -10,3 +10,8 @@
 **Next Section**: 
 
 <a href="Session3.md" title="Session 3">Session 3</a>
+
+##
+**Previous Section:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; **Next Section:**
+
+<a href="Session1.md" title="Session 1">Session 1</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="Session3.md" title="Session 3">Session 3</a>
