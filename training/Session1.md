@@ -7,6 +7,8 @@
 - Data management / QGIS working folder
 - How to add base maps in QGIS (Google, OSM, etc.)
 - What are data projections and coordinate systems
+- Data Types & Sources for Flood Mapping
+
 
 **Next Section**: 
 
