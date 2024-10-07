@@ -1,7 +1,7 @@
 # Installing QGIS & Overview of its interface
 **What will you learn from this module?**
 
-- How to quickly install QGIS and it's relevant plugins and toolboxes e.g GRASS and SAGA
+- How to install [QGIS](https://qgis.org/) and it's relevant plugins and toolboxes e.g GRASS and SAGA
 - The basic QGIS tools and functionalities
 - Adding GIS layers in QGIS (raster and vector data)
 - Data management / QGIS working folder
