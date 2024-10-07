@@ -1,7 +1,7 @@
 # Introduction to OpenStreetMap as a data crowd-sourcing tool
 **What will you learn from this module?**
 
-- [OpenStreetMap (OSM)](https://www.openstreetmap.org/) data model
+- The [OpenStreetMap (OSM)](https://www.openstreetmap.org/) data model
 - Checking for OSM data completeness
 - Downloading vector data from OSM (using QGIS' QuickOSM plugin) to help in understanding flood risk 
 - How to update OSM data using [HOT's tasking manager](https://tasks.hotosm.org/) through [mapathons](https://www.missingmaps.org/host/)
