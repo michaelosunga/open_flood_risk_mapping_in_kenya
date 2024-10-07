@@ -7,7 +7,7 @@
 - Loading settlements / buildings, roads and relevant points of interests (schools, hospitals, market centres)
 - Clipping datasets to county of interest - Tana river and Garissa counties
 - Reprojecting data from geographical to projected coordinates
-- Introduction to the QGIS **Graphical Modeler**
+- Introduction to the QGIS [Graphical Modeler](https://docs.qgis.org/3.34/en/docs/user_manual/processing/modeler.html)
 
 
 
