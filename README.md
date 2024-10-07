@@ -25,7 +25,7 @@ The project focuses on Garissa and Tana River Counties which are vulnerable to f
 # Training approach
 
 This digital flood risk mapping technical manual was developed to build open GIS literacy capacity amongst key disaster risk management (DRM) departments to adequately input, manipulate, analyse, visualise and disseminate GIS data from open  data and GIS software in order to understand flood risk. 
-The training module is divided into four sessions.;  
+The training module is divided into four sessions;  
 - Session 1: Installing QGIS & Overview of its interface, Data Types & Sources for Flood Mapping
 - Session 2: Introduction to OpenStreetMap as a data crowd-sourcing tool
 - Session 3: Loading, basic geo-processing and visualizing flood risk and vulnerability data in QGIS
