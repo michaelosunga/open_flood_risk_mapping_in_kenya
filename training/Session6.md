@@ -2,12 +2,11 @@
 
 **What will you learn from this module?**
 
-- Loading flood exposure datasets: DEM and flood hazard at various return periods - rtps
-- Loading land use/land cover (LULC)
-- Loading settlements / buildings, roads and relevant points of interests (schools, hospitals, market centres)
-- Clipping datasets to county of interest - Tana river and Garissa counties
-- Reprojecting data from geographical to projected coordinates
-- Introduction to the QGIS [Graphical Modeler](https://docs.qgis.org/3.34/en/docs/user_manual/processing/modeler.html)
+  ***Visualising GIS data through maps***
+ - Use of cartography to create map products for communication and decision-making
+ - Step-by-step guide on creating static atlas maps using QGIS
+ - Step-by-step guide on creating interactive maps using [QGIS2web](https://www.qgistutorials.com/en/docs/3/web_mapping_with_qgis2web.html)
+ - Step-by-step guide on creating interactive maps using [Lizmap](https://www.lizmap.com/en/)
 
 
 
