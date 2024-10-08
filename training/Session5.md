@@ -3,7 +3,7 @@
 **What will you learn from this module?**
  
  ***How does flood risk compare across different wards/ sub-counties within a county?***
- - Using the graphical modeller in: 
+- Using the QGIS [graphic modeller](https://docs.qgis.org/3.34/en/docs/) in:
    - Computing number of settlements at risk of floods at various return periods across all wards
    - Computing number of vulnerable communities at risk of floods at various return periods across all wards
    - Computing number of relevant points of interests (POIs) at risk of floods at various return periods across all wards
