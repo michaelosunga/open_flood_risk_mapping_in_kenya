@@ -1,9 +1,9 @@
-# Loading and visualizing data in QGIS
+# Accessing and visualizing flood risk data in QGIS
 
 **What will you learn from this module?**
 
-- Loading flood hazard datasets: flood hazard at various return periods (rtps)
-- Loading land use/land cover (LULC) data
+- Accessing and visualizing flood hazard datasets from [GloFAS](https://global-flood.emergency.copernicus.eu/general-information/about-glofas/): Flood hazard layers at various return periods (rtps)
+- Accessing and visualizing land cover dataset from the [European Space Agency (ESA)](https://esa-worldcover.org/en)
 - Loading settlements / buildings, roads and relevant points of interests (schools, hospitals, market centres)
 - Relevant GIS geo-processing in QGIS
   - Clipping datasets to county of interest - Tana river and Garissa counties
