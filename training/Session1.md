@@ -1,13 +1,13 @@
 # Installing QGIS & Overview of its interface
 **What will you learn from this module?**
 
-- How to install [QGIS](https://qgis.org/) and it's relevant plugins and toolboxes e.g GRASS and SAGA
-- The basic QGIS tools and functionalities
-- Adding GIS layers in QGIS (raster and vector data)
-- Data management / QGIS working folder
-- How to add base maps in QGIS (Google, OSM, etc.)
+- How to install [QGIS](https://qgis.org/) and it's relevant [plugins](https://plugins.qgis.org/) and toolboxes e.g [GRASS](https://grass.osgeo.org/) and [SAGA](https://saga-gis.sourceforge.io/en/index.html)
+- Understanding basic QGIS tools and functionalities
 - GIS data projections and coordinate systems
 - GIS data types and sources for flood risk mapping
+- Adding GIS layers in QGIS (raster and vector data)
+- Data management / The flood risk mapping working folder
+- How to add basemaps in QGIS (Google, OSM, etc.)
 
 
 **Next Section**: 
