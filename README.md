@@ -34,6 +34,6 @@ The training module is divided into four sessions;
 - Session 6: Visualising GIS data through maps. Use of cartography to create map products (static and interactive) for communication and decision-making.
 
 # How to use this technical manual? 
-This technical training manual is developed for absolute GIS beginners. It is a step-by-step guide to learning essential GIS analysis using QGIS for flood risk mapping. This manual is not a guarantee  that at its conclusion that learners will be proficient in geo-information since GIS is vast with other applications. Therefore, learners can use knowledge acquired to further their knowledge in GIS or follow other similar GIS training manuals.
+This technical training manual is developed for absolute GIS beginners. It is a step-by-step guide to learning essential GIS analysis using QGIS for flood risk mapping. This manual is not a guarantee  that at its conclusion that learners will be proficient in geo-information since GIS is vast with other applications. Therefore, learners can use knowledge acquired to further their knowledge in GIS or follow other similar GIS training manuals. The methodology herein can be employed in any location globally that is prone to floods.
 
 
