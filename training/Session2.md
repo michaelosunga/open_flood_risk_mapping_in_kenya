@@ -3,9 +3,12 @@
 
 - The [OpenStreetMap (OSM)](https://www.openstreetmap.org/) data model
 - Checking for OSM data completeness
-- Downloading vector data from OSM (using QGIS' QuickOSM plugin) to help in understanding flood risk 
-- How to update OSM data using [HOT's tasking manager](https://tasks.hotosm.org/) through [mapathons](https://www.missingmaps.org/host/) - remote mapping
-- Adding [points of interest (POIs)](https://wiki.openstreetmap.org/wiki/Points_of_interest) in OSM using field mapping tools - [ODK](https://getodk.org/), [OsmAnd](https://osmand.net/), [organic maps](https://organicmaps.app/) and [mapillary](https://organicmaps.app/)
+- Downloading vector data from OSM to help in understanding flood risk using:
+  -  QGIS' [QuickOSM plugin](https://plugins.qgis.org/plugins/QuickOSM/)
+  -  [Overpass turbo](https://overpass-turbo.eu/)
+  -  [HOT export tool](https://export.hotosm.org/v3/)
+- How to update OSM data through remote mapping using [HOT's tasking manager](https://tasks.hotosm.org/) through [mapathons](https://www.missingmaps.org/host/)
+- How to update [points of interest (POIs)](https://wiki.openstreetmap.org/wiki/Points_of_interest) in OSM using field mapping tools such as [ODK](https://getodk.org/), [OsmAnd](https://osmand.net/), [organic maps](https://organicmaps.app/) and [mapillary](https://organicmaps.app/)
 
 
 ##
