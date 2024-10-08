@@ -3,7 +3,7 @@
 **What will you learn from this module?**
 
  ***Understanding flood risk using GIS***
-- Using the graphic modeller in:
+- Using the QGIS [graphic modeller](https://docs.qgis.org/3.34/en/docs/) in:
   - Computing estimated number of settlements at risk of floods at various return periods
   - Computing estimated number of vulnerable communities at risk of floods at various return periods
   - Computing estimated number of relevant points of interests (POIs) at risk of floods at various return periods. POIs include schools, health centres, public boreholes etc
