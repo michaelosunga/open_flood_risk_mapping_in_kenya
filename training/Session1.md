@@ -7,7 +7,7 @@
 - Data management / QGIS working folder
 - How to add base maps in QGIS (Google, OSM, etc.)
 - GIS data projections and coordinate systems
-- GIS data types & sources for flood risk mapping
+- GIS data types and sources for flood risk mapping
 
 
 **Next Section**: 
