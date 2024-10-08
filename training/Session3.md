@@ -6,7 +6,7 @@
 - Accessing and visualizing land cover dataset from the [European Space Agency (ESA)](https://esa-worldcover.org/en)
 - Accessing and visualizing settlements / buildings, roads and relevant points of interests (schools, hospitals, market centres) from [OpenStreetMap](https://www.openstreetmap.org/)
 - Accessing and visualizing high resolution population density maps and demographic estimates from [Data for good at Meta](https://dataforgood.facebook.com/dfg/about)
-- Relevant GIS geo-processing in QGIS for flood risk mapping
+- Relevant GIS [geo-processing tools](https://docs.qgis.org/3.34/en/docs/user_manual/processing/toolbox.html) in QGIS for flood risk mapping
   - Clipping datasets to county of interest - Tana river and Garissa counties
   - Reprojecting data from geographical to projected coordinates
 - Introduction to the QGIS [Graphical Modeler](https://docs.qgis.org/3.34/en/docs/user_manual/processing/modeler.html)
