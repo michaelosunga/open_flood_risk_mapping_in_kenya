@@ -5,6 +5,7 @@
  ***How does flood risk compare across different wards/ sub-counties within a county?***
  - Using the graphical modeller in: 
    - Computing number of settlements at risk of floods at various return periods across all wards
+   - Computing number of vulnerable communities at risk of floods at various return periods across all wards
    - Computing number of relevant points of interests (POIs) at risk of floods at various return periods across all wards
    - Computing number of roads at risk of floods at various return periods across all wards
    - Computing estimated acreage of productive land at risk of floods at various return periods across all wards
