@@ -7,6 +7,8 @@
  - Step-by-step guide on creating static flood risk maps using the [QGIS' Atlas tool](https://www.qgistutorials.com/en/docs/3/automating_map_creation.html)
  - Step-by-step guide on creating interactive flood risk maps using the [QGIS2Web tool](https://www.qgistutorials.com/en/docs/3/web_mapping_with_qgis2web.html)
  - Step-by-step guide on creating interactive flood risk maps using the [Lizmap tool](https://www.lizmap.com/en/)
+ - Step-by-step guide on creating interactive flood risk maps using the [G3W-Suite](https://g3wsuite.it/en/g3w-suite-publish-qgis-projects/)
+
    
 
 
